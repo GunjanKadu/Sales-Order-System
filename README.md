@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/colinbut/sales-order-system.svg?branch=master)](https://travis-ci.org/colinbut/sales-order-system)
 
-**Project no longer actively maintained, please see: [Sales Order System 2.0](https://github.com/colinbut/sales-order-system) instead**
+**Project no longer actively maintained, please see: [Sales Order System 2.0](https://github.com/GunjanKadu/Sales-Order-System.git) instead**
 
 ## Table of Contents
 
@@ -341,13 +341,6 @@ Integration Testing is implemented using Spring's Test Context Framework. An in-
 End 2 End Testing (Acceptance Testing) is done using Cucumber-JVM. This is available under the test-automation sub module. The intent of this is to provide end to end automation of the full stack web application. Maybe, can integrate Selenium in the future which would allow automation of the web application on web browsers. But for now, cucumber tests are written in the back-end code. Acceptance criterias are written in the .feature files using the Gherkin language. This area needs improvement.
 Note that End 2 End testing for this project is still WIP.
 
-### <a name="team-members"></a>Team Members
-
-ME (colin.but@outlook.com)
-
-### <a name="project-demo"></a>Project Demo
-
-[TBD]
 
 ### <a name="tech-tool"></a>Technology/Tool Stack
 
