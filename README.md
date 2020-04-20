@@ -40,7 +40,7 @@ This is a very small full-stack web application that is used as a sample and is 
 
 1) Checkout code
 ```
-git clone https://github.com/colinbut/sales-order-system.git
+git clone https://github.com/GunjanKadu/Sales-Order-System.git
 ```
 
 2) Do a local build
