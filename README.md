@@ -1,8 +1,5 @@
 # Sales Order System
 
-[![Build Status](https://travis-ci.org/colinbut/sales-order-system.svg?branch=master)](https://travis-ci.org/colinbut/sales-order-system)
-
-**Project no longer actively maintained, please see: [Sales Order System 2.0](https://github.com/GunjanKadu/Sales-Order-System.git) instead**
 
 ## Table of Contents
 
